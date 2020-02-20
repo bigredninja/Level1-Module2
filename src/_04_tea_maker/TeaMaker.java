@@ -42,7 +42,7 @@ class Kettle {
 	}
 
 	class Water {
-
+ 
 		private boolean isHot = false;
 
 		public boolean isHot() {
